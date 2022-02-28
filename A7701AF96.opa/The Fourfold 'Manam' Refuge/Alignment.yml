@@ -1,0 +1,19 @@
+segment_sources:
+  P0AA296A9:
+    type: origin_type
+    relation: translation
+    language: en
+  PD25D93F3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  072a21684cec4499a3bc56199a8d7595:
+    P0AA296A9: 7fb9a99d1bf94f9abf72bfba7431b16d
+    PD25D93F3: 2744570e21f049ffa35d660f4ec82b84
+  9f21e9f4c66e4a9cb17d63c53c2d49f7:
+    P0AA296A9: c85623f43cc8436d8a7f74bc3203cc97
+    PD25D93F3: 7cb84df4fc4247d8aaf111b3f1938d58
+  0b0342ca7dc84e73b7e8a389c6cfa4c2:
+    P0AA296A9: fe625a65be3548deaf5ec9d53c515ca2
+    PD25D93F3: 4b54ff08bdaf4cdca3d9fd777ef2adb4
